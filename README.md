@@ -166,14 +166,6 @@ An example simulation with ForeSight would involve the following steps:
 3. **Sales Analysis**: Visualize sales trends across different categories, identifying top-performing products and sales patterns.
 4. **Demand Forecasting**: Utilize forecasting models to predict future sales trends, providing insights for inventory management and sales planning.
 
-
-
-https://github.com/user-attachments/assets/88c02aba-c346-4525-b118-7600f7016380
-
-
-
-The platform then displays these insights interactively, allowing businesses to explore and make data-driven decisions.
-
 ---
 
 ## **Outputs**
@@ -203,14 +195,6 @@ These insights are presented through an easy-to-navigate interface, enabling use
 - **NLTK**: For sentiment analysis
 - **ARIMA**: For demand forecasting
 
----
-
-## **Authors**
-
-- **Anujesh Bansal** - [anujeshify](https://github.com/anujeshify)
-- **Divyansh Chauhan** - [DivR22](https://github.com/DivR22)
-- **Khushi Goel** - [Khushigoel14](https://github.com/Khushigoel14)
-- **Prachee Mohapatra** - [prachee04](https://github.com/prachee04)
 
 ---
 
@@ -218,3 +202,4 @@ These insights are presented through an easy-to-navigate interface, enabling use
 
 - Thanks to the creators of Streamlit, Pandas, and Scikit-learn for their incredible tools.
 - Special thanks to all contributors who provided valuable feedback during the development of ForeSight.
+
